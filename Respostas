@@ -1,0 +1,38 @@
+q1
+
+var numeros = [3]int{5,10,4}
+	return :=  5+10+4
+	fmt.printLn(return)
+
+q2
+
+numeros := []int{1, 2, 3, 4, 5}
+fmt.Println(numeros)
+
+numeros = numeros[:len(numeros)-1]
+fmt.Println(numeros)
+
+numeros = numeros[1:]
+fmt.Println(numeros)
+
+q3
+
+numeros := [4]int{1, 2, 3, 4, }
+return 1*2*3*4
+
+
+q4
+
+var nomes []int
+var tamanho int
+var valores int
+	fmt.print("Qual o tamanho do Slice?")
+	fmt.Scan(&tamanho)
+	fmt.print("Qual os valores do Slice?")
+
+q5 
+
+var matriz [3][2]int
+fmt.Println(matriz)
+
+q6
